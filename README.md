@@ -19,7 +19,7 @@ SO THAT my company can compete with other e-commerce companies
 
 1. Clone this SSH Key link: "git@github.com:addiguskey/ORM-E-commerce-backend.git" on your Terminal (Mac) or gitBash(Windows).
 
-2. This app uses [MySql2](https://www.npmjs.com/package/mysql2), [Sequelize](<[Sequelize](https://www.npmjs.com/package/console.table)>) and [dotenv](https://www.npmjs.com/package/dotenv). You can simply install npm Express by running "npm i" on your Integrated Terminal in VS-Code
+2. This app uses [MySql2](https://www.npmjs.com/package/mysql2), [Sequelize](https://www.npmjs.com/package/console.table) and [dotenv](https://www.npmjs.com/package/dotenv). You can simply install npm Express by running "npm i" on your Integrated Terminal in VS-Code
 
 3. Click [Usage](#usage) for a step-by-step video demo of this application.
 
