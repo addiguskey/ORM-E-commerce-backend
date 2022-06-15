@@ -25,7 +25,7 @@ SO THAT my company can compete with other e-commerce companies
 
 # Usage
 
-![]()
+![walkthru](./images/walkthru.gif)
 
 GIVEN a functional Express.js API
 
